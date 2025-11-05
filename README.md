@@ -1,3 +1,4 @@
 # DepartamentoInformatica
 Raul
+Juan
 Paco
