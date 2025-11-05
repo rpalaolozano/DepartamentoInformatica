@@ -1,2 +1,4 @@
 # DepartamentoInformatica
 Raul
+Juan
+Paco
